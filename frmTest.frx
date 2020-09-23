@@ -1,0 +1,23 @@
+BThis box is
+Right justified -
+handy for addresses
+or whatever
+ÿÃAn enhanced printer control that includes a 
+Preview function.  In this example the text in 
+each of these text boxes will be printed with the 
+same attributes as the box.  Although this text 
+box cannot display justified text, it will be justified 
+when printed.
+
+Each TextItem added to the qcPrinter class can 
+be altered or removed and can contain a number 
+of paragraphs.  The textitem is used to hold text 
+that has common attributes.
+'edward moth and
+qbd software present
+¸Hey edward, do that funky 
+disco biscuit thing ... 
+hehehe ... gin soaked boys 
+rule
+
+This box will have a left indent of 1cm and a right indent of 13cm added to its attributes.
